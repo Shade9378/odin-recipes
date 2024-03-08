@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project which display links to several recipes. By the end of this project, i will be able to demonstrate my skill in HTML. This project will also make use of my skill revolving Git and Command Line as well.
